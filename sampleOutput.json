@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+      {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "Wired",
+        "title": "How to Automatically Delete Passcode Texts on Android and iOS",
+        "description": "Here’s one simple way to reduce your security risk while logging in.",
+        "url": "https://www.wired.com/story/how-to-automatically-delete-passcode-texts-android-ios",
+        "urlToImage": "https://media.wired.com/photos/64cd8e5082d37ced55dff7bf/191:100/w_1280,c_limit/How-to-Delete-Passcode-Texts-Security-GettyImages-1360338794.jpg",
+        "publishedAt": "2023-08-06T11:00:00Z",
+        "content": "This feature has been disappearing and reappearing from Google Messages and isn't available in every region. If you don't see the menu option, those could be the reasons. If you want another text mes… [+2389 chars]"
+      },
+      {
+        "source": {
+          "id": "polygon",
+          "name": "Polygon"
+        },
+        "author": "Charlie Hall",
+        "title": "Blade Runner RPG publisher Free League wins big at Gen Con Ennie Awards",
+        "description": "Gen Con’s Ennie Awards recognize Free League Publishing, with Gold for Vaesen, Blade Runner, and Symbaroum. Journalist Linda Codega was also recognized.",
+        "url": "https://www.polygon.com/23815466/ennie-awards-2023-best-game-vaesen-linda-codega",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/p3SLNIv8Ua8uk2jCGc1LfjwZDNw=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22870002/Blade_Runner_RPG_Key_Art_cropped.jpg",
+        "publishedAt": "2023-08-05T03:30:00Z",
+        "content": "Free League Publishing won big in this years Ennie Awards, Gen Cons biggest awards program. The Swedish publisher pulled in Gold awards for three of its marquee tabletop role-playing game lines, incl… [+2040 chars]"
+      },
+      {
+        "source": {
+          "id": "buzzfeed",
+          "name": "Buzzfeed"
+        },
+        "author": "Victoria Kuglin",
+        "title": "Sephora Must-Have Products To Order During The Sale",
+        "description": "Make sure to use code SAVENOW to score those sweet discounts!",
+        "url": "https://www.buzzfeed.com/victoriakuglin/sephora-sale-must-haves?origin=hpp",
+        "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-04/18/15/enhanced/82c98cc48f55/original-564-1681831534-4.jpg?crop=1581:830;0,0%26downsize=1250:*",
+        "publishedAt": "2023-04-19T19:22:25.669942Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "hacker-news",
+          "name": "Hacker News"
+        },
+        "author": null,
+        "title": "Code CAD – Use code to create CAD models",
+        "description": "A community hub for CodeCAD parts, OpenSCAD, CadQuery, JSCAD and more",
+        "url": "https://cadhub.xyz/u/caterpillar/moving_fish/ide",
+        "urlToImage": null,
+        "publishedAt": "2021-10-18T16:07:22.2869802Z",
+        "content": "Version control with GitHub, multi-file projects, and team collaboration tools. Weve got a lot planned, and were building it in the open.\r\nView on Github"
+      }
+    ]
+  }
