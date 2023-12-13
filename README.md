@@ -1,8 +1,10 @@
 # Welcome to NewsApp
 
 This is a live News Application which provides live news from different parts over the world and user can see news from any region and news based on different cateogories like entertainment, sports etc.
-
+Implemented NEWS API integration 
 You can access it here : https://dhruvp132.github.io/NewsApp/
+
+Note : News API is only accessible within localhost:3000.
 
 # Getting Started with Create React App
 
