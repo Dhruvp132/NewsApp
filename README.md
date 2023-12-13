@@ -1,4 +1,4 @@
-#Welcome to NewsApp
+# Welcome to NewsApp
 
 This is a live News Application which provides live news from different parts over the world and user can see news from any region and news based on different cateogories like entertainment, sports etc.
 
